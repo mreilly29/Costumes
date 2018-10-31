@@ -1,0 +1,31 @@
+{
+    "CostumeType": "Spooky",
+    "Year": 2018,
+    "Costumes": [
+        {
+            "Name": "Skeleton",
+            "IsMovieRelated": false,
+            "ImageUrl": "https://i1.sndcdn.com/artworks-000190178047-l26yen-t500x500.jpg"
+        },
+        {
+            "Name": "Harry Potter",
+            "IsMovieRelated": true,
+            "ImageUrl": "https://vignette.wikia.nocookie.net/harrypotterfanon/images/3/3c/Harry_Potter_movies_hbp_promostills_6.jpg/revision/latest?cb=20150706203702"
+        },
+        {
+            "Name": "Witch",
+            "IsMovieRelated": true,
+            "ImageUrl": "https://cdn7.bigcommerce.com/s-863teu/images/stencil/1280x1280/products/8534/26640/ebb0dace-b2c5-5250-bd70-c032d2415bde__48079.1505416031.jpg?c=2&imbypass=on"
+        },
+        {
+            "Name": "Baby Groot",
+            "IsMovieRelated": true,
+            "ImageUrl": "http://i.imgur.com/86TC7T7.jpg"
+        },
+        {
+            "Name": "Clown",
+            "IsMovieRelated": false,
+            "ImageUrl": "https://images.halloweencostumes.com/products/4508/1-1/big-top-clown-costume.jpg"
+        }
+    ]
+}
