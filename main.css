@@ -28,20 +28,19 @@ main{
 }
 #costumes{
     display:grid;
-    grid-template-rows: 1fr 1fr;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: 1fr;
     justify-content: space-around;
     grid-row-gap:40px;
     
 }
-@media screen and (max-width: 1000px){
+@media screen and (min-width: 650px){
     #costumes{
-        grid-template-columns: repeat(2, 1fr);        
+        grid-template-columns: repeat(2,1fr);        
     }
 }
-@media screen and (max-width: 650px){
+@media screen and (min-width: 1000px){
     #costumes{
-        grid-template-columns: 1fr;        
+        grid-template-columns: repeat(3,1fr);        
     }
 }
 
